@@ -11,7 +11,7 @@ while choice == "y" or choice == "Y":
     c=int(input("Enter your choice(1,2,3):"))
     Name=input("Enter your name:")
     Account_balance=10000
-    maximum_amount=5000
+    maximum_amount=6000
     pins=[1234,1233,1222,3333]
     pin=int(input("Enter your 4 digit pin number:"))
     if (pin in pins):
